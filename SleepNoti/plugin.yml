@@ -1,0 +1,5 @@
+main: main.sleep.SleepNoti
+version: 1.0
+name: SleepNoti
+author: Stexjy
+depend: [PlaceholderAPI]

@@ -1,0 +1,5 @@
+enter_bed: "[playername] is sleeping. %sleepnoti_sleepingplayer%/%sleepnoti_totalplayer%. %sleepnoti_notsleepplayer% more need to sleep."
+leave_bed: "[playername] leaves bed"
+sentence_placeholder: "there are %sleepnoti_sleepingplayer%/%sleepnoti_totalplayer% sleeping"
+enter_enabled: true
+leave_enabled: true
